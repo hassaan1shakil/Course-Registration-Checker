@@ -1,0 +1,4 @@
+venv/
+.env
+os.*
+registration_checker.log
